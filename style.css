@@ -1,0 +1,53 @@
+h1 {
+    color: red; 
+    font-family: cursive;
+}
+
+.activities{
+    color: plum;
+}
+
+body {
+    background-color: rgb(205, 112, 161);
+}
+
+p{
+    color: maroon;
+}
+
+.paragraphs {
+    color: maroon;
+}
+
+.headers {
+    color: maroon;
+    font-size: 70px;
+    text-align: center;
+    font-family: cursive;
+
+}
+
+.h2 {
+    color: plum;
+    margin-left: 52px;
+}
+
+img{
+    border: 12px plum solid;
+    border-radius: 30px;
+}
+
+.form{
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.comments{
+    border-radius: 20px;
+}
+
+.submit{
+    border-radius: 20px;
+}
+
+
